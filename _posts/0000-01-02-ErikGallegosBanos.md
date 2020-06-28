@@ -2,5 +2,5 @@
 layout:slide
 title:'Welcome to our second slide'
 ---
-Hi. Happy to see you again.
+Hi. How have you been?.
 Use left arrow to go back!.
